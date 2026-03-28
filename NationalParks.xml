@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Ithaca Peninsula Reserve</Name>
+		<Phone>800-000-1111</Phone>
+		<Phone>800-000-2222</Phone>
+		<Address NearestAirport="Diomedes Airfield">
+			<Number>10</Number>
+			<Street>Troy Street</Street>
+			<City>Ilium</City>
+			<State>NY</State>
+			<Zip>10001</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Whisker Valley Feline Sanctuary</Name>
+		<Phone>888-228-2288</Phone>
+		<Address NearestAirport="Meow International">
+			<Number>9</Number>
+			<Street>Scratching Post Road</Street>
+			<City>Purrville</City>
+			<State>AZ</State>
+			<Zip>85226</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="1.2">
+		<Name>Blood Ocean Submersibles Park</Name>
+		<Phone>999-999-9999</Phone>
+		<Address NearestAirport="Convict Dropzone">
+			<Number>45</Number>
+			<Street>Markiplier Trench</Street>
+			<City>Barren Moon</City>
+			<State>TX</State>
+			<Zip>77001</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Bell Pepper Rosa Reserve</Name>
+		<Phone>800-123-4567</Phone>
+		<Address NearestAirport="Rosa Regional">
+			<Number>25</Number>
+			<Street>Twitch Chat Avenue</Street>
+			<City>Rigged City</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="3.5">
+		<Name>Shibuya Memorial Park</Name>
+		<Phone>810-555-0101</Phone>
+		<Address NearestAirport="Sorcerer's Hub">
+			<Number>100</Number>
+			<Street>Domain Expansion Way</Street>
+			<City>Cursed City</City>
+			<State>WA</State>
+			<Zip>98101</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="5.0">
+		<Name>Maximum Effort Chimichanga Canyons</Name>
+		<Phone>800-420-6969</Phone>
+		<Address NearestAirport="Pool Air">
+			<Number>4</Number>
+			<Street>Wall Break Street</Street>
+			<City>Weapon X</City>
+			<State>OH</State>
+			<Zip>44101</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Svarga Lotus Gardens</Name>
+		<Phone>777-777-7777</Phone>
+		<Phone>888-888-8888</Phone>
+		<Address NearestAirport="Buddha's Palm">
+			<Number>6</Number>
+			<Street>Enlightenment Path</Street>
+			<City>Nirvana</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Brazilian Wind Badlands</Name>
+		<Phone>555-888-0000</Phone>
+		<Address NearestAirport="Jetstream Airstrip">
+			<Number>14</Number>
+			<Street>Murasama Blade Road</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80201</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Iron Temple Hypertrophy Park</Name>
+		<Phone>800-170-1700</Phone>
+		<Address NearestAirport="Gains International">
+			<Number>170</Number>
+			<Street>Grams of Protein Blvd</Street>
+			<City>Swoleville</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Rolling Gacha Canyons</Name>
+		<Phone>111-222-3333</Phone>
+		<Address NearestAirport="Claim Airstrip">
+			<Number>77</Number>
+			<Street>Discord Server Lane</Street>
+			<City>Waifu City</City>
+			<State>FL</State>
+			<Zip>33101</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
