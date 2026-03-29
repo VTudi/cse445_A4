@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks>
 
 	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
@@ -16,124 +16,123 @@
 	</NationalPark>
 
 	<NationalPark Rating="4.8">
-		<Name>Ithaca Peninsula Reserve</Name>
-		<Phone>800-000-1111</Phone>
-		<Phone>800-000-2222</Phone>
-		<Address NearestAirport="Diomedes Airfield">
-			<Number>10</Number>
-			<Street>Troy Street</Street>
-			<City>Ilium</City>
-			<State>NY</State>
-			<Zip>10001</Zip>
-		</Address>
-	</NationalPark>
-
-	<NationalPark>
-		<Name>Whisker Valley Feline Sanctuary</Name>
-		<Phone>888-228-2288</Phone>
-		<Address NearestAirport="Meow International">
-			<Number>9</Number>
-			<Street>Scratching Post Road</Street>
-			<City>Purrville</City>
-			<State>AZ</State>
-			<Zip>85226</Zip>
-		</Address>
-	</NationalPark>
-
-	<NationalPark Rating="1.2">
-		<Name>Blood Ocean Submersibles Park</Name>
-		<Phone>999-999-9999</Phone>
-		<Address NearestAirport="Convict Dropzone">
-			<Number>45</Number>
-			<Street>Markiplier Trench</Street>
-			<City>Barren Moon</City>
-			<State>TX</State>
-			<Zip>77001</Zip>
-		</Address>
-	</NationalPark>
-
-	<NationalPark>
-		<Name>Bell Pepper Rosa Reserve</Name>
-		<Phone>800-123-4567</Phone>
-		<Address NearestAirport="Rosa Regional">
-			<Number>25</Number>
-			<Street>Twitch Chat Avenue</Street>
-			<City>Rigged City</City>
-			<State>CA</State>
-			<Zip>90210</Zip>
-		</Address>
-	</NationalPark>
-
-	<NationalPark Rating="3.5">
-		<Name>Shibuya Memorial Park</Name>
-		<Phone>810-555-0101</Phone>
-		<Address NearestAirport="Sorcerer's Hub">
-			<Number>100</Number>
-			<Street>Domain Expansion Way</Street>
-			<City>Cursed City</City>
-			<State>WA</State>
-			<Zip>98101</Zip>
-		</Address>
-	</NationalPark>
-
-	<NationalPark Rating="5.0">
-		<Name>Maximum Effort Chimichanga Canyons</Name>
-		<Phone>800-420-6969</Phone>
-		<Address NearestAirport="Pool Air">
-			<Number>4</Number>
-			<Street>Wall Break Street</Street>
-			<City>Weapon X</City>
-			<State>OH</State>
-			<Zip>44101</Zip>
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Phone>307-344-2000</Phone>
+		<Address NearestAirport="Bozeman">
+			<Number>2</Number>
+			<Street>Mammoth Loop</Street>
+			<City>Yellowstone</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
 		</Address>
 	</NationalPark>
 
 	<NationalPark Rating="4.9">
-		<Name>Svarga Lotus Gardens</Name>
-		<Phone>777-777-7777</Phone>
-		<Phone>888-888-8888</Phone>
-		<Address NearestAirport="Buddha's Palm">
-			<Number>6</Number>
-			<Street>Enlightenment Path</Street>
-			<City>Nirvana</City>
-			<State>HI</State>
-			<Zip>96815</Zip>
+		<Name>Yosemite</Name>
+		<Phone>209-372-0200</Phone>
+		<Address NearestAirport="Fresno">
+			<Number>9039</Number>
+			<Street>Village Drive</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
 
 	<NationalPark>
-		<Name>Brazilian Wind Badlands</Name>
-		<Phone>555-888-0000</Phone>
-		<Address NearestAirport="Jetstream Airstrip">
-			<Number>14</Number>
-			<Street>Murasama Blade Road</Street>
-			<City>Denver</City>
-			<State>CO</State>
-			<Zip>80201</Zip>
+		<Name>Zion</Name>
+		<Phone>435-772-3256</Phone>
+		<Address NearestAirport="St. George">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.5">
-		<Name>Iron Temple Hypertrophy Park</Name>
-		<Phone>800-170-1700</Phone>
-		<Address NearestAirport="Gains International">
-			<Number>170</Number>
-			<Street>Grams of Protein Blvd</Street>
-			<City>Swoleville</City>
-			<State>NV</State>
-			<Zip>89109</Zip>
+	<NationalPark Rating="4.7">
+		<Name>Glacier</Name>
+		<Phone>406-888-7800</Phone>
+		<Address NearestAirport="Glacier Park Int">
+			<Number>64</Number>
+			<Street>Going-to-the-Sun Road</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
 		</Address>
 	</NationalPark>
 
 	<NationalPark>
-		<Name>Rolling Gacha Canyons</Name>
-		<Phone>111-222-3333</Phone>
-		<Address NearestAirport="Claim Airstrip">
-			<Number>77</Number>
-			<Street>Discord Server Lane</Street>
-			<City>Waifu City</City>
-			<State>FL</State>
-			<Zip>33101</Zip>
+		<Name>Acadia</Name>
+		<Phone>207-288-3338</Phone>
+		<Address NearestAirport="Hancock County">
+			<Number>250</Number>
+			<Street>Route 3</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Grand Teton</Name>
+		<Phone>307-739-3300</Phone>
+		<Address NearestAirport="Jackson Hole">
+			<Number>100</Number>
+			<Street>Teton Park Road</Street>
+			<City>Moose</City>
+			<State>WY</State>
+			<Zip>83012</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Olympic</Name>
+		<Phone>360-565-3130</Phone>
+		<Address NearestAirport="Seattle">
+			<Number>3002</Number>
+			<Street>Mount Angeles Road</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Arches</Name>
+		<Phone>435-719-2299</Phone>
+		<Address NearestAirport="Canyonlands">
+			<Number>5</Number>
+			<Street>Courthouse Wash</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Address NearestAirport="Palm Springs">
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Bryce Canyon</Name>
+		<Phone>435-834-5322</Phone>
+		<Address NearestAirport="Bryce Canyon Airport">
+			<Number>1</Number>
+			<Street>Highway 63</Street>
+			<City>Bryce</City>
+			<State>UT</State>
+			<Zip>84764</Zip>
 		</Address>
 	</NationalPark>
 
