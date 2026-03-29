@@ -65,14 +65,14 @@
 	</NationalPark>
 
 	<NationalPark>
-		<Name>Acadia</Name>
-		<Phone>207-288-3338</Phone>
-		<Address NearestAirport="Hancock County">
-			<Number>250</Number>
-			<Street>Route 3</Street>
-			<City>Bar Harbor</City>
-			<State>ME</State>
-			<Zip>04609</Zip>
+		<Name>Everglades</Name>
+		<Phone>305-242-7700</Phone>
+		<Address NearestAirport="Miami">
+			<Number>40001</Number>
+			<Street>State Road 9336</Street>
+			<City>Homestead</City>
+			<State>FL</State>
+			<Zip>33034</Zip>
 		</Address>
 	</NationalPark>
 
